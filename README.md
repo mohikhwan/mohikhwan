@@ -66,8 +66,8 @@ git
 
 ### Github Statistics:
 <p>
-  <img align="left" src="https://img.shields.io/github/followers/mohikhwan?label=Followers&color=red" alt="mohikhwan followers" />
-  <img src="https://komarev.com/ghpvc/?username=mohikhwan&label=Profile%20views&color=red&style=flat" alt="mohikhwan profile views" />
+  <img align="left" src="https://komarev.com/ghpvc/?username=mohikhwan&label=Profile%20views&color=red&style=flat" alt="mohikhwan profile views" />
+  <img src="https://img.shields.io/github/followers/mohikhwan?label=Followers&color=red" alt="mohikhwan followers" />
 </p>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohikhwan&layout=donut-vertical" alt="mohikhwan languages" />
