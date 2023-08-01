@@ -70,8 +70,8 @@ git
   <img src="https://komarev.com/ghpvc/?username=mohikhwan&label=Profile%20views&color=red&style=flat" alt="mohikhwan profile views" />
 </p>
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohikhwan&" alt="mohikhwan streak statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohikhwan&layout=donut-vertical" alt="mohikhwan languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohikhwan&layout=donut-vertical" alt="mohikhwan languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohikhwan&" alt="mohikhwan streak statistics" />
 </p>
 
 ### Connect with me:
