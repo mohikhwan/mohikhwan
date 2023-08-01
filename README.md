@@ -3,26 +3,26 @@
 
 - 👯 I’m looking to collaborate on **Automation Project, Mobile Apps**
 
+- 📫 How to reach me **contact@ikhwan.my.id**
+
+- 📄 Know about my experiences [https://ikhwan.my.id](https://ikhwan.my.id)
+
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
-    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Code-Javascript-blue?&logo=javascript" />
+    <img src="https://img.shields.io/badge/Code-PHP-blue?&logo=php" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-### Languages:
+### Languages & DBMS:
 <p>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-</p>
-
-### Databases:
-<p>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
   </a> 
@@ -47,7 +47,7 @@
   </a>
 </p>
 
-### Templating:
+### Frontend Development:
 <p>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -69,23 +69,20 @@
   <img src="https://komarev.com/ghpvc/?username=mohikhwan&label=Profile%20views&color=0e75b6&style=flat" alt="mohikhwan" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohikhwan&show_icons=true&locale=en&layout=compact" alt="mohikhwan" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohikhwan&show_icons=true&locale=en" alt="mohikhwan" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohikhwan&" alt="mohikhwan" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohikhwan&show_icons=true&locale=en&layout=compact" alt="mohikhwan" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohikhwan&show_icons=true&locale=en" alt="mohikhwan" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohikhwan&" alt="mohikhwan" />
 </p>
 
 ### Connect with me:
 <p>
   <a href="https://ikhwan.my.id" target="blank">
-    <img src="https://img.shields.io/badge/Website-https://ikhwan.my.id-green?" />
+    <img src="https://img.shields.io/badge/Website-https://ikhwan.my.id-green?style=flat&logo=url" />
+  </a>
+  <a href="https://github.com/mohikhwan" target="blank">
+    <img src="https://img.shields.io/badge/Github-@mohikhwan-green?style=flat&logo=github" />
   </a>
   <a href="https://instagram.com/wan1khwan" target="blank">
-    <img src="https://img.shields.io/badge/wan1khwan-30302f?style=flat&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@wan1khwan-green?style=flat&logo=instagram" />
   </a>
 </p>
