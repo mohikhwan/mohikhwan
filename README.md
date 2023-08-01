@@ -71,7 +71,7 @@ git
 </p>
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohikhwan&" alt="mohikhwan streak statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohikhwan&layout=donut" alt="mohikhwan languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohikhwan&layout=donut-vertical" alt="mohikhwan languages" />
 </p>
 
 ### Connect with me:
