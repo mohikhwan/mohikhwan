@@ -1,8 +1,9 @@
 <h1 align="center">Hello 👋, &nbsp;I'm Ikhwan</h1>
-<h3 align="center">A passionate full-stack developer from Indonesia</h3>
+
+- 👨 I'm a passionate full-stack developer from Indonesia
 
 - 👯 I’m looking to collaborate on **Automation Project, Mobile Apps**
-git 
+
 - 📫 How to reach me **contact@ikhwan.my.id**
 
 - 📄 Know about my experiences [https://ikhwan.my.id](https://ikhwan.my.id)
