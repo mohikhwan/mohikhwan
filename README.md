@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/github/followers/mohikhwan?label=Followers&color=red" alt="mohikhwan followers" />
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohikhwan&langs_count=4" alt="mohikhwan languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohikhwan&layout=donut" alt="mohikhwan languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohikhwan&" alt="mohikhwan streak statistics" />
 </p>
 
