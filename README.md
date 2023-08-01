@@ -1,8 +1,8 @@
-<h1 align="center">Hello 👋, I'm Ikhwan</h1>
+<h1 align="center">Hello 👋, &nbsp;I'm Ikhwan</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia</h3>
 
 - 👯 I’m looking to collaborate on **Automation Project, Mobile Apps**
-
+git 
 - 📫 How to reach me **contact@ikhwan.my.id**
 
 - 📄 Know about my experiences [https://ikhwan.my.id](https://ikhwan.my.id)
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-### Framework:
+### Frameworks:
 <p>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
@@ -47,7 +47,7 @@
   </a>
 </p>
 
-### Frontend Development:
+### Frontend Developments:
 <p>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -66,12 +66,13 @@
 
 ### Github Statistics:
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mohikhwan&label=Profile%20views&color=0e75b6&style=flat" alt="mohikhwan" />
+  ![Follower Badge](https://img.shields.io/github/followers/mohikhwan)
+  ![Profile Views](https://komarev.com/ghpvc/?username=mohikhwan)
 </p>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohikhwan&show_icons=true&locale=en&layout=compact" alt="mohikhwan" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohikhwan&show_icons=true&locale=en" alt="mohikhwan" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohikhwan&" alt="mohikhwan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohikhwan&" alt="mohikhwan" />
 </p>
 
 ### Connect with me:
