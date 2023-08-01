@@ -67,12 +67,11 @@ git
 ### Github Statistics:
 <p>
   <img align="left" src="https://img.shields.io/github/followers/mohikhwan?label=Followers&color=red" alt="mohikhwan followers" />
-  <img align="left" src="https://komarev.com/ghpvc/?username=mohikhwan&label=Profile%20views&color=red&style=flat" alt="mohikhwan profile views" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohikhwan&show_icons=true&locale=en&layout=compact" alt="mohikhwan" />
+  <img src="https://komarev.com/ghpvc/?username=mohikhwan&label=Profile%20views&color=red&style=flat" alt="mohikhwan profile views" />
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohikhwan&show_icons=true&locale=en" alt="mohikhwan" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohikhwan&" alt="mohikhwan" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohikhwan&" alt="mohikhwan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohikhwan&show_icons=true&locale=en&layout=compact" alt="mohikhwan" />
 </p>
 
 ### Connect with me:
